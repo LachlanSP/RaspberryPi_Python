@@ -1,0 +1,12 @@
+Analytics
+
+This data analysis is made up of timestamp, temperature and humidity data, spanning multiple days.
+
+Given the type and range of the data, I chose to represent it in two forms - time series analysis and frequency distribution.
+The time series analysis was represented by a scatterplot and line chart, where temperature and humidity occupied the y-axis and time on the x-axis
+Time series analysis allows the comparison of two datapoints (temperature and humidity) in relation to time. This allows for any patterns to be easily recognised.
+Frequency distribution was represented by a vertical histogram and a horizontal countplot.
+Frequency distribution visualisations clearly display the most prominent datapoints in the dataset, allowing the reader to gague averages, standard deviations and ranges for the data.
+
+I chose to use the Seaborn and Matplotlib Python libraries to create the data visualisations. I chose Seaborn because it is an easy to use library with an abundant amount of visualisation options.
+Seaborn is built on top of the Matplotlib library, which allows for further customisation of visualisations, such as changing graph colours, scaling and titles.

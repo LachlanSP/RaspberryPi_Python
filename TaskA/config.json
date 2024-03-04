@@ -1,0 +1,8 @@
+{
+    "cold_temperature_upper_limit": "15",
+    "comfortable_temperature_range": "15-25",
+    "hot_temperature_lower_limit": "25",
+    "dry_humidity_upper_limit": "30",
+    "comfortable_humidity_range": "30-60",
+    "wet_humidity_lower_limit": "60"
+}
